@@ -1,4 +1,4 @@
-## Hey there! Welcome to my profile 👋
+## Hey there! Welcome to my profile <span class="wave">👋</span>
 
 <!--
 **Aditi832/Aditi832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
